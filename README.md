@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Complete Listing of my projects and projects I have contributed to:
+
+Projects done through the University of Minnesota
+ - Senior-design-project
+ 
+Personal Projects
+ - Guess-who-game(api) and frontend (web app)
+
 <!--
 **jakebeckstrom/jakebeckstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -8,4 +8,5 @@ Projects done through the University of Minnesota
  
 Personal Projects
  - Guess-who-game(api) and frontend (web app)
- - job-listing-project, built following a tutorial
+ - job-listing-project: built following a tutorial
+ - 5straight: Simple game built with Java and Swing UI
